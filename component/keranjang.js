@@ -1,4 +1,5 @@
 export function tampilkanKeranjang(keranjang) {
+
   console.log("\n=== Isi Keranjang ===");
   if (keranjang.length === 0) {
       console.log("Keranjang masih kosong.");

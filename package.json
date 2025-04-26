@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "git-coffeshop",
   "version": "1.0.0",
   "main": "coffeeShop.js",
+=======
+  "name": "homework",
+  "version": "1.0.0",
+  "main": "coffeShop.js",
+>>>>>>> f345c57 (feat: initial commit)
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +16,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "@inquirer/input": "^4.1.9"
+=======
+    "@inquirer/input": "^4.1.9",
+    "node-fetch": "^3.3.2",
+    "numeral": "^2.0.6"
+>>>>>>> f345c57 (feat: initial commit)
   },
   "devDependencies": {
     "@eslint/js": "^9.25.1",
